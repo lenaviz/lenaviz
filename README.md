@@ -7,5 +7,7 @@ My interest in art and philosophy has driven me to explore creativity, critical 
 
 I've discovered my passion in product design, where I combine design and research to make user-friendly solutions. I'm excited to explore the connection between data and design as I continue my studies in data analytics & visualizations.
 
+I'll be uploading projects here as I complete them, thanks for checking my page!
+
 
 
