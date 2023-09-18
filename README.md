@@ -2,17 +2,9 @@
 
 ### Hello! 👋 I'm Lena, a passionate student delving into the exciting world where data and design intersect.
 
-My passion for art and philosophy has always defined me, leading me to explore creativity, critical thinking, and the profound human experience.
+My interest in art and philosophy has driven me to explore creativity, critical thinking, and the human experience. This led me to appreciate design as a way to tell stories and delve into research, examining the connections between ideas, culture, and human behavior.
 
-This journey evolved into a deep appreciation for design, a medium like art, for storytelling and evoking emotions.
-
-Driven by curiosity, I ventured into research, exploring the intersections of ideas, culture, and human behavior to shape the world.
-
-Today, I've found my calling in product design, merging my artistic sensibilities, philosophical curiosity, and research skills to create user-centric solutions.
-
-My fervor lies in using design to innovate, crafting products that meet needs and inspire wonder.
-
-I'm now on a data-focused journey, aiming to merge data and design in exciting ways. Thank you for joining me on this creative adventure.
+I've discovered my passion in product design, where I combine design and research to make user-friendly solutions. I'm excited to explore the connection between data and design as I continue my studies in data analytics & visualizations.
 
 
 
