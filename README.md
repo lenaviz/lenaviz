@@ -1,6 +1,7 @@
 
 
-### Hello! 👋 I'm Lena, a passionate student delving into the exciting world where data and design intersect.
+## Hello! 👋 
+### I'm Lena, a passionate student delving into the exciting world where data and design intersect.
 
 My interest in art and philosophy has driven me to explore creativity, critical thinking, and the human experience. This led me to appreciate design as a way to tell stories and delve into research, examining the connections between ideas, culture, and human behavior.
 
